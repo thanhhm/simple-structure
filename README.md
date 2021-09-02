@@ -1,5 +1,5 @@
 # Simple structure convention for able to write unit test
-Go still have no standard project structure, each company, each team might have there own style but whatever the structure is, every project should have three layer proposed below
+Go still have no standard project structure, each company, each team might have their own style but whatever the structure is, every project should have three layer proposed below
 
 ```
 handlers
