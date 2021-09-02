@@ -31,7 +31,7 @@ services
    |
 repository
 ```
-As of above description, `upper` layer will depend on `lower` layer: handlers depend on services; services depend on repository, no reverse direction.
+As of above description, `upper` layer will depend on `lower` layer: handlers depend on services; services depend on repositories, no reverse direction.
 
 ### Step coding API
 The step will be reverse direction of layer dependency: repositories -> services -> handlers.
